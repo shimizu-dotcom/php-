@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP');
+
+
+body {
+  font-family: 'Noto Serif JP', sans-serif;
+  margin: 0px;
+}
+
+.top {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  top: 10%;
+}
+.top h2 {
+  font-size: 50px;
+}
+
+p {
+  text-align: center;
+}
+
+.aa {
+  padding-top: 100px;
+}
