@@ -20,7 +20,7 @@
   
 # テストユーザー
 
-   名前：ジュリオ
+   名前：test@test.co.jp
 
    パスワード：password
   
