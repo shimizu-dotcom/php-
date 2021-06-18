@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP');
+
+
+body {
+  font-family: 'Noto Serif JP', sans-serif;
+  margin: 0px;
+}
+
+.top {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  top: 8%;
+}
+.top h2 {
+  font-size: 50px;
+}
+
+.cus {
+  text-align: center;
+}
+table {
+  padding-top: 100px;
+  margin: 0 auto;
+}
+td {
+  padding: 5px 8px 5px 8px;
+}
+tr:nth-child(odd) {
+  background-color:  #dcdcdc;
+}
+th {
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
